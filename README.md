@@ -59,5 +59,6 @@ The app is designed for single-user demo purposes and not multi-user or secure l
 ## License
 This project is licensed under the MIT License.
 
-## DOWNLODE :- 
+## DOWNLODE :- [![Download](https://img.shields.io/badge/Download-Quiz_3-blue.svg)](https://github.com/Satyam-vohra/Quiz_program/releases/download/Quiz_3/Quiz.exe)
+
 
