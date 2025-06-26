@@ -11,7 +11,6 @@ import base64
 USERS = {
     "student": {"password": "1234", "role": "student"}
 }
-
 class QuizApp:
     def __init__(self, root):
         self.root = root
