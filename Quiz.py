@@ -6,7 +6,6 @@ from tkinter import ttk
 from PIL import Image, ImageTk, ImageDraw
 import io
 import base64
-
 # Predefined users
 USERS = {
     "student": {"password": "1234", "role": "student"}
